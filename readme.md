@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan Mohite</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate Sfotware Developer from India</h3>
 
 ---
 
@@ -29,10 +29,13 @@
 ---
 
 ## 📊 GitHub Stats:
+<p align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=karan-mohite&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=karan-mohite&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karan-mohite&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+</p>
 ---
 
 ## 🏆 GitHub Trophies:
