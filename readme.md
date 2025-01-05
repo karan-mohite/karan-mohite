@@ -11,7 +11,7 @@
 <br>
 <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vjymisal0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&custom_title=Languages%20used" height="154" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karan-mohite&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&custom_title=Languages%20used" height="154" alt="languages graph"  />
 </div>
 
 <br>
