@@ -1,45 +1,27 @@
-###
+# Karan Mohite  
+### I am working on full-stack projects
 
-<div align="center">
-
-
-<br>
-<br>
-
-  <img src="https://streak-stats.demolab.com?user=karan-mohite&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="155" alt="streak graph"  />
-
-<br>
-<br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karan-mohite&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&custom_title=Languages%20used" height="154" alt="languages graph"  />
-</div>
-
-<br>
-<br>
+---
 
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=your-github-karan-mohite&color=blueviolet)
+  <img src="https://streak-stats.demolab.com?user=karan-mohite&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="155" alt="streak graph"  />
 
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karan-mohite&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&custom_title=Languages%20used" height="154" alt="languages graph"  />
+  
 </div>
+
 <br>
+  
 <div align="center">
-<!--
-![LeetCode Stats](https://leetcard.jacoblin.cool/vijaymisal?theme=dark&font=Open%20Sans&ext=activity)
--->
+  
+  ![](https://komarev.com/ghpvc/?username=karan-mohite&color=blueviolet)
 
 </div>
+  
 <br>
-<div align="center">
-
-<!--
-
-[![Vijay's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=73vijay)](https://auth.geeksforgeeks.org/user/73vijay)
--->
-
-</div>
-
-###
 
 <div>
   
@@ -68,37 +50,14 @@
 </div>
 
 <div align="center">
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="37" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="37" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="37" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="37" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="37" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="37" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="37" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="37" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="37" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="37" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  /> -->
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=karan-mohite&theme=flat&no-frame=true&margin-w=30&margin-h=10&column=7" alt="trophies" />
 </div>
 
-###
+---
 
-###
+### 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/karan-mohite)
+- [Email](mailto:mohitekaran18@gmail.com)
+
+---
+
