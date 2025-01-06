@@ -1,35 +1,37 @@
-# Karan Mohite  
+# Karan Mohite
+
+<div align="center">
+
 ### I am working on full-stack projects
 
 ---
 
 <div align="center">
-  
-  <img src="https://streak-stats.demolab.com?user=karan-mohite&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="155" alt="streak graph"  />
 
-  <br>
-  <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=karan-mohite&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="154" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=karan-mohite&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="154" alt="stats graph" />
 
 <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karan-mohite&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&custom_title=Languages%20used" height="154" alt="languages graph"  />
-  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=karan-mohite&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&custom_title=Languages%20used" height="154" alt="languages graph" />
+
+<br>
+<img src="https://streak-stats.demolab.com?user=karan-mohite&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="155" alt="streak graph" />
+
 </div>
 
 <br>
-  
+
 <div align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=karan-mohite&color=blueviolet)
+
+![](https://komarev.com/ghpvc/?username=karan-mohite&color=blueviolet)
 
 </div>
-  
+
 <br>
 
-<div>
-  
 # 💻 Tech Stack:
+
+<div align="center">
+
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
@@ -53,6 +55,8 @@
 
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=karan-mohite&theme=flat&no-frame=true&margin-w=30&margin-h=10&column=7" alt="trophies" />
 </div>
@@ -60,8 +64,12 @@
 ---
 
 ### 📫 How to reach me:
+
+<div align="center">
+
 - [LinkedIn](https://www.linkedin.com/in/karan-mohite)
 - [Email](mailto:mohitekaran18@gmail.com)
 
----
+</div>
 
+---
