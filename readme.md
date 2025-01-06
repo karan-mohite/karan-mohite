@@ -63,13 +63,11 @@
 
 ---
 
+
 ### 📫 How to reach me:
-
-<div>
-
 - [LinkedIn](https://www.linkedin.com/in/karan-mohite)
 - [Email](mailto:mohitekaran18@gmail.com)
 
-</div>
+
 
 ---
