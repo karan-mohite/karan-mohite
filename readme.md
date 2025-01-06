@@ -64,10 +64,13 @@
 ---
 
 
+
+<div>
+
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/karan-mohite)
 - [Email](mailto:mohitekaran18@gmail.com)
 
-
+</div>
 
 ---
