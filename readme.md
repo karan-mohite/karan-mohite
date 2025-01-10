@@ -3,7 +3,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vjymisal0/vjymisal0/output/snake.svg" alt="Snake animation, Under maintenance :(" />
+<img src="https://raw.githubusercontent.com/karan-mohite/karan-mohite/output/snake.svg" alt="Snake animation, Under maintenance :(" />
 
 ### 🚀 About Me
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 Visit my portfolio [https://vijaymisal-portfolio.netlify.app](https://vijaymisal-portfolio.netlify.app)
 
-- 📫 How to Reach Me ➡️ You can reach me at: [vijay.22320079@viit.ac.in](mailto:vijay.22320079@viit.ac.in)
+- 📫 How to Reach Me ➡️ You can reach me at: [vijay.22320079@viit.ac.in](mailto:mohitekaran18@gmail.com)
 
 
 <div align="center">
