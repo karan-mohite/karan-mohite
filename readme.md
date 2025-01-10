@@ -12,14 +12,14 @@
 
 - 🌱 I’m currently learning **Amazon Web Services**
 
-- 👨‍💻 Visit my portfolio [https://vijaymisal-portfolio.netlify.app](https://vijaymisal-portfolio.netlify.app)
+- 👨‍💻 Visit my portfolio [https://vijaymisal-portfolio.netlify.app]()
 
-- 📫 How to Reach Me ➡️ You can reach me at: [vijay.22320079@viit.ac.in](mailto:mohitekaran18@gmail.com)
+- 📫 How to Reach Me ➡️ You can reach me at: [mohitekaran18@gmail.com](mailto:mohitekaran18@gmail.com)
 
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=vjymisal0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="154" alt="Stats Graph, Under maintenance :("  />
+  <img src="https://github-readme-stats.vercel.app/api?username=karan-mohite&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="154" alt="Stats Graph, Under maintenance :("  />
 
 <br>
 <br>
@@ -29,7 +29,7 @@
 <br>
 <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vjymisal0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&custom_title=Languages%20used" height="154" alt="Languages Graph, Under maintenance :("  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karan-mohite&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&custom_title=Languages%20used" height="154" alt="Languages Graph, Under maintenance :("  />
 </div>
 
 <br>
