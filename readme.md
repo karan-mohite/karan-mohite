@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vijay Misal</h1>
+<h1 align="center">Hi 👋, I'm Karan Mohite</h1>
 <h3 align="center">A passionate developer & technology explorer!</h3>
 
 <br clear="both">
