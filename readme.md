@@ -44,7 +44,7 @@
 <div align="center">
   
 # Github Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vjymisal0&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karan-mohitetheme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </br></br>
 
 
