@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### I am working on full-stack projects
+### I am working on full-stack projects.
 
 ---
 
