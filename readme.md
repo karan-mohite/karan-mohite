@@ -3,7 +3,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/karan-mohite/karan-mohite/output/snake.svg" alt="Snake animation, Under maintenance :(" />
 
 ### 🚀 About Me
 
@@ -12,7 +11,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Services**
 
-- 👨‍💻 Visit my portfolio [https://vijaymisal-portfolio.netlify.app]()
+- 👨‍💻 Visit my portfolio [https://karan-mohite-portfolio.netlify.app]()
 
 - 📫 How to Reach Me ➡️ You can reach me at: [mohitekaran18@gmail.com](mailto:mohitekaran18@gmail.com)
 
@@ -24,7 +23,7 @@
 <br>
 <br>
 
-  <img src="https://streak-stats.demolab.com?user=vjymisal0&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="155" alt="Streak Graph, Under maintenance :("  />
+  <img src="https://streak-stats.demolab.com?user=karan-mohite&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="155" alt="Streak Graph, Under maintenance :("  />
 
 <br>
 <br>
@@ -44,7 +43,7 @@
 <div align="center">
   
 # Github Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karan-mohitetheme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karan-mohite&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </br></br>
 
 
