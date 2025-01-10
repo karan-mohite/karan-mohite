@@ -36,7 +36,7 @@
 
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=your-github-vjymisal0&color=blueviolet)
+  ![](https://komarev.com/ghpvc/?username=your-github-karan-mohite&color=blueviolet)
 
 </div>
 <br>
