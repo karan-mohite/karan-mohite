@@ -23,7 +23,7 @@
 <br>
 <br>
 
-  <img src="https://streak-stats.demolab.com?user=karan-mohite&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="155" alt="Streak Graph, Under maintenance :("  />
+  <img src="https://streak-stats.demolab.com?usenamer=karan-mohite&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="155" alt="Streak Graph, Under maintenance :("  />
 
 <br>
 <br>
