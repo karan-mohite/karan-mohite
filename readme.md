@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Services**
 
-- 👨‍💻 Visit my portfolio [https://karan-mohite.vercel.app]()
+- 👨‍💻 Visit my portfolio [https://karan-mohite.vercel.app/]()
 
 - 📫 How to Reach Me ➡️ You can reach me at: [mohitekaran18@gmail.com](mailto:mohitekaran18@gmail.com)
 
