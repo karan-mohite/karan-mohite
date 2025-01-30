@@ -7,9 +7,7 @@
 ### 🚀 About Me
 
 
-- 🔭 I’m currently working on **MERN Stack, Cloud Computing, Android Development and Next.js**
-
-- 🌱 I’m currently learning **Amazon Web Services**
+👨‍💻 I am Karan Mohite, a passionate Computer Engineering student at PCET's Nutan Maharashtra Institute of Engineering and Technology, Pune. As a proficient full-stack Java developer, I excel in designing and delivering impactful web solutions. 🚀 My unwavering commitment to continuous learning and my innovative problem-solving abilities empower me to navigate and succeed in the ever-evolving tech landscape. 🌟
 
 - 👨‍💻 Visit my portfolio [https://karan-mohite.vercel.app/]()
 
