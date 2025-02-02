@@ -34,7 +34,7 @@ const karan = {
 
 - 🎨 Portfolio: [karanmohite.tech](https://karanmohite.tech/)
 - 📧 Email: [mohitekaran18@gmail.com](mailto:mohitekaran18@gmail.com)
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/yourusername)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/karan-mohite/)
 
 </div>
 
@@ -44,25 +44,12 @@ const karan = {
 
 ## 🌟 Featured Projects
 
-<div align="left">
-
-### Project 1
-- Description of your first major project
-- Technologies used
-- Link to repository/live demo
-
-### Project 2
-- Description of your second major project
-- Technologies used
-- Link to repository/live demo
-
-</div>
 
 ## 📈 GitHub Stats
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karan-mohite&theme=dark)
 
 </div>
 
