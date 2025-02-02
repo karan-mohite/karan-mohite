@@ -1,28 +1,75 @@
-<h1 align="center">Hi 👋, I'm Karan Mohite</h1>
-<h3 align="center">A passionate developer & technology explorer!</h3>
+<div align="center">
 
-<br clear="both">
+# Hello World! 👋 I'm Karan Mohite
 
-### 🚀 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Java+Developer;Computer+Engineering+Student;Technology+Explorer)](https://git.io/typing-svg)
 
+</div>
 
-👨‍💻 I am Karan Mohite, a passionate Computer Engineering student at PCET's Nutan Maharashtra Institute of Engineering and Technology, Pune. As a proficient full-stack       Java developer, I excel in designing and delivering impactful web solutions. 🚀 My unwavering commitment to continuous learning and my innovative problem-solving          abilities empower me to navigate and succeed   in the ever-evolving tech landscape. 🌟
+## 🎯 About Me
 
+I'm a Computer Engineering student at PCET's Nutan Maharashtra Institute of Engineering and Technology, Pune, with a passion for building innovative web solutions. As a full-stack Java developer, I combine technical expertise with creative problem-solving to create impactful digital experiences.
 
-- 👨‍💻 Visit my portfolio [https://karanmohite.tech/]()
+```javascript
+const karan = {
+    education: "Computer Engineering",
+    location: "Pune, India",
+    role: "Full Stack Java Developer",
+    interests: ["Web Development", "Problem Solving", "Technology Innovation"],
+    currentFocus: "Building scalable web applications",
+    lifePhilosophy: "Continuous Learning & Growth"
+};
+```
 
-- 📫 How to Reach Me ➡️ You can reach me at: [mohitekaran18@gmail.com](mailto:mohitekaran18@gmail.com)
+## 🔍 What I Do
 
+- 💻 Develop full-stack web applications
+- 🚀 Create innovative solutions to complex problems
+- 📚 Continuously learn and explore new technologies
+- 🤝 Collaborate with other developers and teams
+
+## 🌐 Connect With Me
+
+<div align="left">
+
+- 🎨 Portfolio: [karanmohite.tech](https://karanmohite.tech/)
+- 📧 Email: [mohitekaran18@gmail.com](mailto:mohitekaran18@gmail.com)
+- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/yourusername)
+
+</div>
+
+## 💻 Tech Stack
+
+[Your existing tech stack section goes here]
+
+## 🌟 Featured Projects
+
+<div align="left">
+
+### Project 1
+- Description of your first major project
+- Technologies used
+- Link to repository/live demo
+
+### Project 2
+- Description of your second major project
+- Technologies used
+- Link to repository/live demo
+
+</div>
+
+## 📈 GitHub Stats
 
 <div align="center">
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
 
-<div>
+</div>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
+---
 
+<div align="center">
 
-
+### 💪 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 </div>
