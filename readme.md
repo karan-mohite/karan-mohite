@@ -16,38 +16,6 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=karan-mohite&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="154" alt="Stats Graph, Under maintenance :("  />
-
-<br>
-<br>
-  <img src="https://streak-stats.demolab.com?usenamer=karan-mohite&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="155" alt="Streak Graph, Under maintenance :("  />
-
-<br>
-<br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karan-mohite&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&custom_title=Languages%20used" height="154" alt="Languages Graph, Under maintenance :("  />
-</div>
-
-<br>
-<br>
-
-<div align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=your-github-karan-mohite&color=blueviolet)
-
-</div>
-<br>
-<div align="center">
-  
-# Github Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karan-mohite&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</br></br>
-
-
-</div>
-  
-<br>
-
 
 <div>
 
@@ -58,15 +26,3 @@
 
 
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vjymisal0&theme=flat&no-frame=true&margin-w=30&margin-h=10&column=7" alt="trophies" />
-</div>
-
-###
-
-###
