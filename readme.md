@@ -52,7 +52,7 @@ const karan = {
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=karan-mohite&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karan-mohite&theme=dark)
 
 </div>
 
