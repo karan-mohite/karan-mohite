@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Java+Developer;Computer+Engineering+Student;Technology+Explorer)](https://git.io/typing-svg)
 
 </div>
-[![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue)]
+![Visitor Count](https://komarev.com/ghpvc/?username=karan-mohite&color=blue)
 
 ## 🎯 About Me
 
