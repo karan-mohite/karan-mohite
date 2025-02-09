@@ -3,7 +3,7 @@
 # Hello 👋 I'm Karan Mohite
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Java+Developer;Computer+Engineering+Student;Technology+Explorer)](https://git.io/typing-svg)
-![Profile Views](https://komarev.com/ghpvc/?username=aadesh0706&color=blue)  
+![Profile Views](https://komarev.com/ghpvc/?username=karan-mohite&color=blue)  
 </div>
 
 ## 🎯 About Me
