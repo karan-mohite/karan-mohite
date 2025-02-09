@@ -5,8 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Java+Developer;Computer+Engineering+Student;Technology+Explorer)](https://git.io/typing-svg)
 
 </div>
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/karan-mohite&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
-
+[![Profile Views](https://visitcount.itsvg.in/api?id=karan-mohite&label=Profile%20Views&color=6&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 ## 🎯 About Me
 
