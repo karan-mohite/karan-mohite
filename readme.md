@@ -12,7 +12,7 @@
 
 ## 🎯 About Me
 
-I'm a Computer Engineering student at PCET's Nutan Maharashtra Institute of Engineering and Technology, Pune, with a passion for building innovative web solutions. As a full-stack Java developer, I combine technical expertise with creative problem-solving to create impactful digital experiences.
+I'm a Computer Engineering graduate from PCET's Nutan Maharashtra Institute of Engineering and Technology, Pune, with a passion for building innovative web solutions. As a Full Stack Java Developer, I combine technical expertise with creative problem-solving to build scalable, user-friendly applications and create impactful digital experiences.
 
 ```javascript
 const karan = {
