@@ -36,7 +36,7 @@ const karan = {
 
 <div align="left">
 
-- 🎨 Portfolio: [karanmohite.tech](https://karanmohite.tech/)
+- 🎨 Portfolio: [karanmohite.tech](https://karan-mohite.vercel.app/)
 - 📧 Email: [mohitekaran234@gmail.com](mailto:mohitekaran234@gmail.com)
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/karan-mohite/)
 
